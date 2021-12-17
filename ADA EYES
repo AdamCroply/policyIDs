@@ -3,11 +3,38 @@
         "tags": [
             "ADA:AI:ART",
             "ADA:EYES",
+            "ADA EYES",
             "ADA AI ART",
             "Adamski"
         ],
         "policies": [
             "699c4268dda21557c9418260d36e4578aeffa555e4d4f469f45b59dc"
+        ]
+    },
+    {
+        "project": "ADA:WORLDS",
+        "tags": [
+            "ADA:AI:ART",
+            "ADA:WORLDS",
+            "ADA WORLDS",
+            "ADA AI ART",
+            "Adamski"
+        ],
+        "policies": [
+            "aeb10964f05f0a83350cbe36f72c1c9f6b5d18a489d0895de32c40b1"
+        ]
+    },
+    {
+        "project": "ADA:FACES",
+        "tags": [
+            "ADA:AI:ART",
+            "ADA:FACES",
+            "ADA FACES",
+            "ADA AI ART",
+            "Adamski"
+        ],
+        "policies": [
+            "728152307a8d6207076729479266ad625e6b8abc822b2d5f41725bc9"
         ]
     },
     {
